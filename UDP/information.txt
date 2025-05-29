@@ -1,0 +1,37 @@
+Landing page 
+
+4 Option
+
+Home
+Farmer
+Drone 
+Community 
+Vendor 
+
+Farmer in view of customer 
+
+1. Crop availability 
+2. Crop status 
+3. Fertilizers availability 
+4. Chatbot ki what fertilizers to be used
+5. Multilingual 
+6. Mapping of trees 
+   Status of each apple according to the row column  
+7. Report (Real Time Statistics)
+8. Monthwise timeline of crops 
+9. Weather API 
+   - Weather updates that next week there will be rain its not best time to yield weather forecasting 
+
+Drone in view of customer
+1. Buy or rent option for drone based on acre  
+2. Availability of time 
+4. Drone alert is it no fly zone vaisa kuch real time alert 
+Vendor 
+
+Fertilizer provider 
+- Logs 
+- Report 
+- Based on the status of the plant  
+Droner Provider
+- Logs 
+- Report 
